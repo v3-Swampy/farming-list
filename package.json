@@ -1,0 +1,9 @@
+{
+  "name": "farming-list",
+  "version": "0.0.1",
+  "description": "farming pool list",
+  "main": "index.js",
+  "repository": "https://github.com/v3-Swampy/farming-list.git",
+  "author": "swampy-team",
+  "license": "MIT"
+}
