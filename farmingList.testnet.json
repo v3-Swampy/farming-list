@@ -1,6 +1,6 @@
 {
     "name": "V3 Farming List ",
-    "timestamp": "2023-04-28T8:40:18.892Z",
+    "timestamp": "2023-05-04T8:40:18.892Z",
     "version": {
         "major": 0,
         "minor": 0,
@@ -12,9 +12,9 @@
             0,
             1,
             2,
-            3,
             4,
-            5
+            5,
+            6
         ]
     },
     "incentive_history": [
