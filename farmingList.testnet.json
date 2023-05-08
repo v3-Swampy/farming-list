@@ -1,6 +1,6 @@
 {
     "name": "V3 Farming List ",
-    "timestamp": "2023-05-04T8:40:18.892Z",
+    "timestamp": "2023-05-08T8:40:18.892Z",
     "version": {
         "major": 0,
         "minor": 0,
@@ -12,191 +12,191 @@
             0,
             1,
             2,
+            3,
             4,
-            5,
-            6
+            5
         ]
     },
     "incentive_history": [
         {
-            "startTime": 1682627833,
-            "endTime": 1682714233,
-            "amount": 5.368e+25
+            "startTime": 1683496800,
+            "endTime": 1686088800,
+            "amount": 5.5e+24
         },
         {
-            "startTime": 1682714233,
-            "endTime": 1682800633,
-            "amount": 4.88e+25
+            "startTime": 1686088800,
+            "endTime": 1688680800,
+            "amount": 5e+24
         },
         {
-            "startTime": 1682800633,
-            "endTime": 1682887033,
-            "amount": 4.392e+25
+            "startTime": 1688680800,
+            "endTime": 1691272800,
+            "amount": 4.5e+24
         },
         {
-            "startTime": 1682887033,
-            "endTime": 1682973433,
-            "amount": 3.904e+25
+            "startTime": 1691272800,
+            "endTime": 1693864800,
+            "amount": 4e+24
         },
         {
-            "startTime": 1682973433,
-            "endTime": 1683059833,
-            "amount": 3.416e+25
+            "startTime": 1693864800,
+            "endTime": 1696456800,
+            "amount": 3.5e+24
         },
         {
-            "startTime": 1683059833,
-            "endTime": 1683146233,
-            "amount": 2.928e+25
+            "startTime": 1696456800,
+            "endTime": 1699048800,
+            "amount": 3e+24
         },
         {
-            "startTime": 1683146233,
-            "endTime": 1683232633,
-            "amount": 2.684e+25
+            "startTime": 1699048800,
+            "endTime": 1701640800,
+            "amount": 2.75e+24
         },
         {
-            "startTime": 1683232633,
-            "endTime": 1683319033,
-            "amount": 2.44e+25
+            "startTime": 1701640800,
+            "endTime": 1704232800,
+            "amount": 2.5e+24
         },
         {
-            "startTime": 1683319033,
-            "endTime": 1683405433,
-            "amount": 2.196e+25
+            "startTime": 1704232800,
+            "endTime": 1706824800,
+            "amount": 2.25e+24
         },
         {
-            "startTime": 1683405433,
-            "endTime": 1683491833,
-            "amount": 1.952e+25
+            "startTime": 1706824800,
+            "endTime": 1709416800,
+            "amount": 2e+24
         },
         {
-            "startTime": 1683491833,
-            "endTime": 1683578233,
-            "amount": 1.5616e+25
+            "startTime": 1709416800,
+            "endTime": 1712008800,
+            "amount": 1.6e+24
         },
         {
-            "startTime": 1683578233,
-            "endTime": 1683664633,
-            "amount": 1.464e+25
+            "startTime": 1712008800,
+            "endTime": 1714600800,
+            "amount": 1.5e+24
         },
         {
-            "startTime": 1683664633,
-            "endTime": 1683751033,
-            "amount": 1.3664e+25
+            "startTime": 1714600800,
+            "endTime": 1717192800,
+            "amount": 1.4e+24
         },
         {
-            "startTime": 1683751033,
-            "endTime": 1683837433,
-            "amount": 1.2688e+25
+            "startTime": 1717192800,
+            "endTime": 1719784800,
+            "amount": 1.3e+24
         },
         {
-            "startTime": 1683837433,
-            "endTime": 1683923833,
-            "amount": 1.1712e+25
+            "startTime": 1719784800,
+            "endTime": 1722376800,
+            "amount": 1.2e+24
         },
         {
-            "startTime": 1683923833,
-            "endTime": 1684010233,
-            "amount": 1.0736e+25
+            "startTime": 1722376800,
+            "endTime": 1724968800,
+            "amount": 1.1e+24
         },
         {
-            "startTime": 1684010233,
-            "endTime": 1684096633,
-            "amount": 9.76e+24
+            "startTime": 1724968800,
+            "endTime": 1727560800,
+            "amount": 1e+24
         },
         {
-            "startTime": 1684096633,
-            "endTime": 1684183033,
-            "amount": 8.784e+24
+            "startTime": 1727560800,
+            "endTime": 1730152800,
+            "amount": 9e+23
         },
         {
-            "startTime": 1684183033,
-            "endTime": 1684269433,
-            "amount": 7.808e+24
+            "startTime": 1730152800,
+            "endTime": 1732744800,
+            "amount": 8e+23
         },
         {
-            "startTime": 1684269433,
-            "endTime": 1684355833,
-            "amount": 6.832e+24
+            "startTime": 1732744800,
+            "endTime": 1735336800,
+            "amount": 7e+23
         },
         {
-            "startTime": 1684355833,
-            "endTime": 1684442233,
-            "amount": 5.856e+24
+            "startTime": 1735336800,
+            "endTime": 1737928800,
+            "amount": 6e+23
         },
         {
-            "startTime": 1684442233,
-            "endTime": 1684528633,
-            "amount": 4.88e+24
+            "startTime": 1737928800,
+            "endTime": 1740520800,
+            "amount": 5e+23
         },
         {
-            "startTime": 1684528633,
-            "endTime": 1684615033,
-            "amount": 3.904e+24
+            "startTime": 1740520800,
+            "endTime": 1743112800,
+            "amount": 4e+23
         },
         {
-            "startTime": 1684615033,
-            "endTime": 1684701433,
-            "amount": 2.928e+24
+            "startTime": 1743112800,
+            "endTime": 1745704800,
+            "amount": 3e+23
         },
         {
-            "startTime": 1684701433,
-            "endTime": 1684787833,
-            "amount": 2.684e+24
+            "startTime": 1745704800,
+            "endTime": 1748296800,
+            "amount": 2.75e+23
         },
         {
-            "startTime": 1684787833,
-            "endTime": 1684874233,
-            "amount": 2.44e+24
+            "startTime": 1748296800,
+            "endTime": 1750888800,
+            "amount": 2.5e+23
         },
         {
-            "startTime": 1684874233,
-            "endTime": 1684960633,
-            "amount": 2.196e+24
+            "startTime": 1750888800,
+            "endTime": 1753480800,
+            "amount": 2.25e+23
         },
         {
-            "startTime": 1684960633,
-            "endTime": 1685047033,
-            "amount": 1.952e+24
+            "startTime": 1753480800,
+            "endTime": 1756072800,
+            "amount": 2e+23
         },
         {
-            "startTime": 1685047033,
-            "endTime": 1685133433,
-            "amount": 1.708e+24
+            "startTime": 1756072800,
+            "endTime": 1758664800,
+            "amount": 1.75e+23
         },
         {
-            "startTime": 1685133433,
-            "endTime": 1685219833,
-            "amount": 1.464e+24
+            "startTime": 1758664800,
+            "endTime": 1761256800,
+            "amount": 1.5e+23
         },
         {
-            "startTime": 1685219833,
-            "endTime": 1685306233,
-            "amount": 1.22e+24
+            "startTime": 1761256800,
+            "endTime": 1763848800,
+            "amount": 1.25e+23
         },
         {
-            "startTime": 1685306233,
-            "endTime": 1685392633,
-            "amount": 9.76e+23
+            "startTime": 1763848800,
+            "endTime": 1766440800,
+            "amount": 1e+23
         },
         {
-            "startTime": 1685392633,
-            "endTime": 1685479033,
-            "amount": 7.32e+23
+            "startTime": 1766440800,
+            "endTime": 1769032800,
+            "amount": 7.5e+22
         },
         {
-            "startTime": 1685479033,
-            "endTime": 1685565433,
-            "amount": 4.88e+23
+            "startTime": 1769032800,
+            "endTime": 1771624800,
+            "amount": 5e+22
         },
         {
-            "startTime": 1685565433,
-            "endTime": 1685651833,
-            "amount": 3.904e+23
+            "startTime": 1771624800,
+            "endTime": 1774216800,
+            "amount": 4e+22
         },
         {
-            "startTime": 1685651833,
-            "endTime": 1685738233,
-            "amount": 3.416e+23
+            "startTime": 1774216800,
+            "endTime": 1776808800,
+            "amount": 3.5e+22
         }
     ]
 }
